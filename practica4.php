@@ -2,7 +2,6 @@
 <head>
 <title>Practica4</title>
 </head>
-//practica
    <body>
      <form>
 	<table>
